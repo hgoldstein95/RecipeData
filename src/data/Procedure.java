@@ -1,7 +1,8 @@
 package data;
 
-/**
- * Created by harry on 9/16/16.
- */
+import java.util.List;
+
 public class Procedure {
+
+    private List<Step> steps;
 }
